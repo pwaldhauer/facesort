@@ -8,6 +8,8 @@ It's not perfect and you may have to experiment with the different cascade files
 
 Install via npm: `sudo npm install -g facesort` OR clone repo, do a `npm install` and `npm link`
 
+(`node-opencv` needs OpenCV -- on MacOS this works perfectly using Homebrew: `brew tap homebrew/science && brew install opencv`)
+
 ## Usage
 
 ````
