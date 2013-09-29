@@ -1,0 +1,21 @@
+{
+    "name": "facesort",
+    "version": "0.0.1",
+    "description": "",
+    "main": "facesort.js",
+    "bin": {
+        "facesort": "facesort.js"
+    },
+    "dependencies": {
+        "underscore": "x.x",
+        "optimist": "x.x",
+        "opencv": "x.x",
+        "async": "x.x"
+    },
+    "author": {
+        "name": "Philipp Waldhauer",
+        "email": "ich@philippwaldhauer.de",
+        "url": "http://knuspermagier.de"
+    }
+    "license": "MIT"
+}
