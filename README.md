@@ -1,11 +1,16 @@
 # facesort
 
-This is a short script using the [NodeJS OpenCV bindings]() to detect faces on images and sort them accordingly.
+This is a short script using the [NodeJS OpenCV bindings](https://github.com/peterbraden/node-opencv) to detect faces on images and sort them accordingly.
 
 It's not perfect and you may have to experiment with the different cascade files provided by OpenCV.
 
-## Usage:
+## Installation
 
+Install via npm: `sudo npm install -g facesort` OR clone repo, do a `npm install` and `npm link`
+
+## Usage
+
+````
 Sorts images with faces. Usage: facesort -i [path]
 
 Options:
@@ -16,6 +21,8 @@ Options:
   -c, --cascade   Cascade file to use                                 [default: "haarcascade_frontalface_default"]
   -l, --list      Prints a list of available cascade files
   -h, --help      Shows this help
+````
+
 
 ## Why?
 
