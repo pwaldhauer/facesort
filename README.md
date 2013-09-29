@@ -26,7 +26,7 @@ Options:
 
 ## Why?
 
-Every hour I'm snapping a picture of myself using my Webcam. Sometimes I'm not at my desk, so there are quite a few pictures without me, that sucks! Sorting them manually sucks, too. AUTOMATE EVERYTHING.
+Every hour my webcam snaps a picture. Sometimes I'm not at my desk, so there are quite a few pictures without me, that sucks! Sorting them manually sucks, too. AUTOMATE EVERYTHING.
 
 ## License
 
